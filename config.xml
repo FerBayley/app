@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+id="com.phonegap.placoss" version="1.0">
+
+	<name>placoss</name>
+	<description>Esta es la app de Placoss muebles a medida</description>
+	<author href="http://www.dospuntoclick.com.ar" email="fernando@dospuntoclick.com.ar">Fernando</author>
+	<icon src="icono.png" gap:role="default" />
+
+	<preference name="orientation" value="landscape" />
+
+	<gap:platform>
+		<gap:platform name="android" minVersion="2.3" />
+	</gap:platform>
+
+</widget>

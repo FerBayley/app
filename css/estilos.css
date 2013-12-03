@@ -1,0 +1,82 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+* {
+	border: 0px;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+#bg {
+	background: url(../images/bg-splash.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: auto;
+}
+#bgMenu {
+	background: url(../images/bg-principal.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: auto;
+}
+#contenidoInicio {
+  background-color: rgba(255,120,0,.40);
+  height: auto;
+  margin: 0 auto;
+  margin-top: 180px;
+  padding: 2em 0 2em 0;
+  text-align: center;
+  width: 100%;
+}
+#contenidoPlacares {
+	background: url(../images/bg-placares.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: auto;
+}
+#principalCocina {
+	background: url(../images/bg-cocina.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: auto;
+}
+#bg-especiales {
+	background: url(../images/bg-especiales.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: auto;
+}
+#bg-novedades {
+	background: url(../images/bg-novedades.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: auto;
+}
